@@ -12,4 +12,5 @@ HeadTrackingDemo - Android App
 - This app using webview for get image which streamed by Carbo app, but this repository do not contains webserver now.
  
 MotorDrive - Arduino Firmware
-- This firmware get user inputs from PC app(with G27) via Carbo app(with UART), and
+- This firmware get user inputs from PC app(with G27) via Carbo app(with UART), and control servo / DC motor with PWM.
+- Arduino(including this firmware) is replaced ESC module in RC Car
